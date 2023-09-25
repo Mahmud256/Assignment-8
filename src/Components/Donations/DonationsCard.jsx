@@ -36,7 +36,7 @@ const DonationsCard = ({ donation }) => {
                 Swal.fire({
                     icon: 'error',
                     title: 'Oops...',
-                    text: 'This product has been added before. A product can be added at most once',
+                    text: 'This product has been added before. A product can be added at most once.....',
                   })
             }
 

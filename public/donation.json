@@ -32,21 +32,21 @@
   {
     "id": "4",
     "cover": "https://i.ibb.co/Tq8F7sC/Food.png",
-    "cover_background_color": "rgba(255, 68, 74, 0.15)",
+    "cover_background_color": "rgba(248, 113, 71, 0.15)",
     "title": "Food",
     "paragraph": "Better Food for Everyone",
     "description": "Access to better food for everyone is a pressing global concern with far-reaching implications for health, equality, and the environment. The current food system faces multiple challenges, from food insecurity and malnutrition to unsustainable agricultural practices. It is imperative that we work collectively to transform our approach to food production, distribution, and consumption.",
-    "text_color": "#FF444A",
+    "text_color": "#F87147",
     "price": "$290"
   },
   {
     "id": "5",
     "cover": "https://i.ibb.co/Tq8F7sC/Food.png",
-    "cover_background_color": "rgba(255, 68, 74, 0.15)",
+    "cover_background_color": "rgba(248, 113, 71, 0.15)",
     "title": "Food",
     "paragraph": "Better Food for Everyone",
     "description": "Access to better food for everyone is a pressing global concern with far-reaching implications for health, equality, and the environment. The current food system faces multiple challenges, from food insecurity and malnutrition to unsustainable agricultural practices. It is imperative that we work collectively to transform our approach to food production, distribution, and consumption.",
-    "text_color": "#FF444A",
+    "text_color": "#F87147",
     "price": "$290"
   },
   {
@@ -112,11 +112,11 @@
   {
     "id": "12",
     "cover": "https://i.ibb.co/Tq8F7sC/Food.png",
-    "cover_background_color": "rgba(255, 68, 74, 0.15)",
+    "cover_background_color": "rgba(248, 113, 71, 0.15)",
     "title": "Food",
     "paragraph": "Better Food for Everyone",
     "description": "Access to better food for everyone is a pressing global concern with far-reaching implications for health, equality, and the environment. The current food system faces multiple challenges, from food insecurity and malnutrition to unsustainable agricultural practices. It is imperative that we work collectively to transform our approach to food production, distribution, and consumption.",
-    "text_color": "#FF444A",
+    "text_color": "#F87147",
     "price": "$290"
   }
 ]
