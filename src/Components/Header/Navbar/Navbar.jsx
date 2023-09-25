@@ -4,11 +4,18 @@ import Logo from "./Logo";
 
 
 const Navbar = () => {
+
+  const links = <>
+    <li><NavLink to="/">Home</NavLink></li>
+    <li><NavLink to="/donation">Donation</NavLink></li>
+    <li><NavLink to="/statistics">Statistics</NavLink></li>
+  </>
+
   return (
     <div className="container mx-auto">
       <nav className="flex justify-between items-center py-6">
 
-      <Logo></Logo>
+        <Logo></Logo>
 
         <ul className="flex gap-5">
           <li>
@@ -33,7 +40,7 @@ const Navbar = () => {
               Donation
             </NavLink>
 
-            
+
           </li>
           <li>
             <NavLink
@@ -45,7 +52,7 @@ const Navbar = () => {
               Statistics
             </NavLink>
 
-            
+
           </li>
         </ul>
 
