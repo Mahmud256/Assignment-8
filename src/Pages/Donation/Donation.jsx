@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-//import DonationsCard from '../../Components/Donations/DonationsCard';
 import DonationCard from './DonationCard';
 
 const Donation = () => {
