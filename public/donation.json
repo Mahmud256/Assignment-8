@@ -1,99 +1,122 @@
 [
-    {
-      "id": "1",
-      "cover": "https://i.ibb.co/Z68k8BR/Health.png",
-      "cover_background_color": "rgba(0, 82, 255, 0.15)",
-      "title": "Clean water for children",
-      "description": "Clean water is a fundamental human right, yet millions of children around the world continue to suffer from the lack of access to clean and safe drinking water. This dire situation is a grave violation of their basic rights and has severe consequences for their health, well-being, and future prospects. Waterborne diseases, such as cholera, dysentery, and diarrhea, are responsible for countless childhood deaths each year, particularly in developing countries where sanitation and water infrastructure are inadequate.",
-      "price": "$290"
-    },
-    {
-      "id": "2",
-      "cover": "https://i.ibb.co/vHF1ZS3/Education.png",
-      "cover_background_color": "rgba(255, 68, 74, 0.15)",
-      "title": "Good education",
-      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "price": "$290"
-    },
-    {
-      "id": "3",
-      "cover": "https://i.ibb.co/xS6rc0m/Clothing.png",
-      "cover_background_color": "rgba(121, 194, 63, 0.15)",
-      "title": "Used Clothing Drive",
-      "description": "The impact of a successful used clothing drive extends beyond the immediate beneficiaries. By diverting clothing from landfills, we contribute to reducing environmental waste and the carbon footprint associated with textile production. The fashion industry is notorious for its negative environmental impact, from water and resource consumption to the emission of greenhouse gases. Engaging in clothing drives helps mitigate some of these harmful effects by promoting the circular economy and encouraging responsible consumption.",
-      "price": "$290"
-    },
-    {
-      "id": "4",
-      "cover": "https://i.ibb.co/Tq8F7sC/Food.png",
-      "cover_background_color": "rgba(255, 68, 74, 0.15)",
-      "title": "Better Food for Everyone",
-      "description": "Access to better food for everyone is a pressing global concern with far-reaching implications for health, equality, and the environment. The current food system faces multiple challenges, from food insecurity and malnutrition to unsustainable agricultural practices. It is imperative that we work collectively to transform our approach to food production, distribution, and consumption.",
-      "price": "$290"
-    },
-    {
-        "id": "5",
-        "cover": "https://i.ibb.co/Tq8F7sC/Food.png",
-        "cover_background_color": "rgba(255, 68, 74, 0.15)",
-        "title": "Better Food for Everyone",
-        "description": "Access to better food for everyone is a pressing global concern with far-reaching implications for health, equality, and the environment. The current food system faces multiple challenges, from food insecurity and malnutrition to unsustainable agricultural practices. It is imperative that we work collectively to transform our approach to food production, distribution, and consumption.",
-        "price": "$290"
-      },
-    {
-      "id": "6",
-      "cover": "https://i.ibb.co/xS6rc0m/Clothing.png",
-      "cover_background_color": "rgba(121, 194, 63, 0.15)",
-      "title": "Used Clothing Drive",
-      "description": "The impact of a successful used clothing drive extends beyond the immediate beneficiaries. By diverting clothing from landfills, we contribute to reducing environmental waste and the carbon footprint associated with textile production. The fashion industry is notorious for its negative environmental impact, from water and resource consumption to the emission of greenhouse gases. Engaging in clothing drives helps mitigate some of these harmful effects by promoting the circular economy and encouraging responsible consumption.",
-      "price": "$290"
-    },
-    {
-        "id": "7",
-        "cover": "https://i.ibb.co/vHF1ZS3/Education.png",
-        "cover_background_color": "rgba(255, 68, 74, 0.15)",
-        "title": "Good education",
-        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-        "price": "$290"
-      },
-    {
-      "id": "8",
-      "cover": "https://i.ibb.co/Z68k8BR/Health.png",
-      "cover_background_color": "rgba(0, 82, 255, 0.15)",
-      "title": "Clean water for children",
-      "description": "Clean water is a fundamental human right, yet millions of children around the world continue to suffer from the lack of access to clean and safe drinking water. This dire situation is a grave violation of their basic rights and has severe consequences for their health, well-being, and future prospects. Waterborne diseases, such as cholera, dysentery, and diarrhea, are responsible for countless childhood deaths each year, particularly in developing countries where sanitation and water infrastructure are inadequate.",
-      "price": "$290"
-    },
-    {
-      "id": "9",
-      "cover": "https://i.ibb.co/Z68k8BR/Health.png",
-      "cover_background_color": "rgba(0, 82, 255, 0.15)",
-      "title": "Clean water for children",
-      "description": "Clean water is a fundamental human right, yet millions of children around the world continue to suffer from the lack of access to clean and safe drinking water. This dire situation is a grave violation of their basic rights and has severe consequences for their health, well-being, and future prospects. Waterborne diseases, such as cholera, dysentery, and diarrhea, are responsible for countless childhood deaths each year, particularly in developing countries where sanitation and water infrastructure are inadequate.",
-      "price": "$290"
-    },
-    {
-      "id": "10",
-      "cover": "https://i.ibb.co/vHF1ZS3/Education.png",
-      "cover_background_color": "rgba(255, 68, 74, 0.15)",
-      "title": "Good education",
-      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "price": "$290"
-    },
-    {
-      "id": "11",
-      "cover": "https://i.ibb.co/xS6rc0m/Clothing.png",
-      "cover_background_color": "rgba(121, 194, 63, 0.15)",
-      "title": "Used Clothing Drive",
-      "description": "The impact of a successful used clothing drive extends beyond the immediate beneficiaries. By diverting clothing from landfills, we contribute to reducing environmental waste and the carbon footprint associated with textile production. The fashion industry is notorious for its negative environmental impact, from water and resource consumption to the emission of greenhouse gases. Engaging in clothing drives helps mitigate some of these harmful effects by promoting the circular economy and encouraging responsible consumption.",
-      "price": "$290"
-    },
-    {
-      "id": "12",
-      "cover": "https://i.ibb.co/Tq8F7sC/Food.png",
-      "cover_background_color": "rgba(255, 68, 74, 0.15)",
-      "title": "Better Food for Everyone",
-      "description": "Access to better food for everyone is a pressing global concern with far-reaching implications for health, equality, and the environment. The current food system faces multiple challenges, from food insecurity and malnutrition to unsustainable agricultural practices. It is imperative that we work collectively to transform our approach to food production, distribution, and consumption.",
-      "price": "$290"
-    }
-  ]
-  
+  {
+    "id": "1",
+    "cover": "https://i.ibb.co/Z68k8BR/Health.png",
+    "cover_background_color": "rgba(0, 82, 255, 0.15)",
+    "title": "Health",
+    "paragraph": "Clean water for children",
+    "description": "Clean water is a fundamental human right, yet millions of children around the world continue to suffer from the lack of access to clean and safe drinking water. This dire situation is a grave violation of their basic rights and has severe consequences for their health, well-being, and future prospects. Waterborne diseases, such as cholera, dysentery, and diarrhea, are responsible for countless childhood deaths each year, particularly in developing countries where sanitation and water infrastructure are inadequate.",
+    "text_color": "#0052FF",
+    "price": "$290"
+  },
+  {
+    "id": "2",
+    "cover": "https://i.ibb.co/vHF1ZS3/Education.png",
+    "cover_background_color": "rgba(255, 68, 74, 0.15)",
+    "title": "Education",
+    "paragraph": "Good education",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "text_color": "#FF444A",
+    "price": "$290"
+  },
+  {
+    "id": "3",
+    "cover": "https://i.ibb.co/xS6rc0m/Clothing.png",
+    "cover_background_color": "rgba(121, 194, 63, 0.15)",
+    "title": "Clothing",
+    "paragraph": "Used Clothing Drive",
+    "description": "The impact of a successful used clothing drive extends beyond the immediate beneficiaries. By diverting clothing from landfills, we contribute to reducing environmental waste and the carbon footprint associated with textile production. The fashion industry is notorious for its negative environmental impact, from water and resource consumption to the emission of greenhouse gases. Engaging in clothing drives helps mitigate some of these harmful effects by promoting the circular economy and encouraging responsible consumption.",
+    "text_color": "#79C23F",
+    "price": "$290"
+  },
+  {
+    "id": "4",
+    "cover": "https://i.ibb.co/Tq8F7sC/Food.png",
+    "cover_background_color": "rgba(255, 68, 74, 0.15)",
+    "title": "Food",
+    "paragraph": "Better Food for Everyone",
+    "description": "Access to better food for everyone is a pressing global concern with far-reaching implications for health, equality, and the environment. The current food system faces multiple challenges, from food insecurity and malnutrition to unsustainable agricultural practices. It is imperative that we work collectively to transform our approach to food production, distribution, and consumption.",
+    "text_color": "#FF444A",
+    "price": "$290"
+  },
+  {
+    "id": "5",
+    "cover": "https://i.ibb.co/Tq8F7sC/Food.png",
+    "cover_background_color": "rgba(255, 68, 74, 0.15)",
+    "title": "Food",
+    "paragraph": "Better Food for Everyone",
+    "description": "Access to better food for everyone is a pressing global concern with far-reaching implications for health, equality, and the environment. The current food system faces multiple challenges, from food insecurity and malnutrition to unsustainable agricultural practices. It is imperative that we work collectively to transform our approach to food production, distribution, and consumption.",
+    "text_color": "#FF444A",
+    "price": "$290"
+  },
+  {
+    "id": "6",
+    "cover": "https://i.ibb.co/xS6rc0m/Clothing.png",
+    "cover_background_color": "rgba(121, 194, 63, 0.15)",
+    "title": "Clothing",
+    "paragraph": "Used Clothing Drive",
+    "description": "The impact of a successful used clothing drive extends beyond the immediate beneficiaries. By diverting clothing from landfills, we contribute to reducing environmental waste and the carbon footprint associated with textile production. The fashion industry is notorious for its negative environmental impact, from water and resource consumption to the emission of greenhouse gases. Engaging in clothing drives helps mitigate some of these harmful effects by promoting the circular economy and encouraging responsible consumption.",
+    "text_color": "#79C23F",
+    "price": "$290"
+  },
+  {
+    "id": "7",
+    "cover": "https://i.ibb.co/vHF1ZS3/Education.png",
+    "cover_background_color": "rgba(255, 68, 74, 0.15)",
+    "title": "Education",
+    "paragraph": "Good education",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "text_color": "#FF444A",
+    "price": "$290"
+  },
+  {
+    "id": "8",
+    "cover": "https://i.ibb.co/Z68k8BR/Health.png",
+    "cover_background_color": "rgba(0, 82, 255, 0.15)",
+    "title": "Health",
+    "paragraph": "Clean water for children",
+    "description": "Clean water is a fundamental human right, yet millions of children around the world continue to suffer from the lack of access to clean and safe drinking water. This dire situation is a grave violation of their basic rights and has severe consequences for their health, well-being, and future prospects. Waterborne diseases, such as cholera, dysentery, and diarrhea, are responsible for countless childhood deaths each year, particularly in developing countries where sanitation and water infrastructure are inadequate.",
+    "text_color": "#0052FF",
+    "price": "$290"
+  },
+  {
+    "id": "9",
+    "cover": "https://i.ibb.co/Z68k8BR/Health.png",
+    "cover_background_color": "rgba(0, 82, 255, 0.15)",
+    "title": "Health",
+    "paragraph": "Clean water for children",
+    "description": "Clean water is a fundamental human right, yet millions of children around the world continue to suffer from the lack of access to clean and safe drinking water. This dire situation is a grave violation of their basic rights and has severe consequences for their health, well-being, and future prospects. Waterborne diseases, such as cholera, dysentery, and diarrhea, are responsible for countless childhood deaths each year, particularly in developing countries where sanitation and water infrastructure are inadequate.",
+    "text_color": "#0052FF",
+    "price": "$290"
+  },
+  {
+    "id": "10",
+    "cover": "https://i.ibb.co/vHF1ZS3/Education.png",
+    "cover_background_color": "rgba(255, 68, 74, 0.15)",
+    "title": "Education",
+    "paragraph": "Good education",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "text_color": "#FF444A",
+    "price": "$290"
+  },
+  {
+    "id": "11",
+    "cover": "https://i.ibb.co/xS6rc0m/Clothing.png",
+    "cover_background_color": "rgba(121, 194, 63, 0.15)",
+    "title": "Clothing",
+    "paragraph": "Used Clothing Drive",
+    "description": "The impact of a successful used clothing drive extends beyond the immediate beneficiaries. By diverting clothing from landfills, we contribute to reducing environmental waste and the carbon footprint associated with textile production. The fashion industry is notorious for its negative environmental impact, from water and resource consumption to the emission of greenhouse gases. Engaging in clothing drives helps mitigate some of these harmful effects by promoting the circular economy and encouraging responsible consumption.",
+    "text_color": "#79C23F",
+    "price": "$290"
+  },
+  {
+    "id": "12",
+    "cover": "https://i.ibb.co/Tq8F7sC/Food.png",
+    "cover_background_color": "rgba(255, 68, 74, 0.15)",
+    "title": "Food",
+    "paragraph": "Better Food for Everyone",
+    "description": "Access to better food for everyone is a pressing global concern with far-reaching implications for health, equality, and the environment. The current food system faces multiple challenges, from food insecurity and malnutrition to unsustainable agricultural practices. It is imperative that we work collectively to transform our approach to food production, distribution, and consumption.",
+    "text_color": "#FF444A",
+    "price": "$290"
+  }
+]
