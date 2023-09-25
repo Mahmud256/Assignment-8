@@ -13,7 +13,7 @@ const Navbar = () => {
 
   return (
     <div className="container mx-auto">
-      <nav className="flex justify-between items-center py-6">
+      <nav className="flex flex-wrap justify-center md:justify-around lg:justify-between items-center py-6">
 
         <Logo></Logo>
 
