@@ -8,6 +8,8 @@ const Donation = () => {
 
     const [noFound, setNofound] = useState(false)
 
+    const [isSeeAll, setIsSeeAll] = useState(false)
+
     useEffect(() => {
         const donationItems = JSON.parse(localStorage.getItem('donations'));
 
@@ -23,10 +25,27 @@ const Donation = () => {
         <div>
             {noFound ? <p className="h-[80vh] flex justify-center items-center">{noFound}</p> :
 
-                <div>
-                    <div className='grid grid-cols-1 md:grid-cols-2 gap-5'>
-                        {donations.map(donation =>  <DonationCard key={donation.id} donation={donation}></DonationCard>)}
+                <div className='flex justify-center'>
+                    <div>
+                        <div className='grid grid-cols-1 md:grid-cols-2 gap-5'>
+                            {
+                               isSeeAll ? donations.map(donation => <DonationCard key={donation.id} donation={donation}></DonationCard>)
+                               :
+                               donations.slice(0,4).map(donation => <DonationCard key={donation.id} donation={donation}></DonationCard>)
+                            }
+                        </div>
+
+                        {
+                            donations.length > 4 
+                            &&
+                            <div className='my-6'>
+                            <button onClick={() => setIsSeeAll(!isSeeAll)} className={`p-2 block rounded-lg mx-auto ${
+                    isSeeAll ? 'bg-orange-700 text-white' : 'bg-green-500 text-white'
+                  }`}>{isSeeAll ? 'See Less' : 'See All'}</button>
+                        </div> 
+                        }
                     </div>
+
                 </div>
 
             }
