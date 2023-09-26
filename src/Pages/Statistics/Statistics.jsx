@@ -16,6 +16,9 @@ const Statistics = () => {
 
     // Calculate donationPercentage based on donations.length and total
     let donationPercentage = donations.length * 8.34;
+    if (donationPercentage > total) {
+        donationPercentage = total;
+    }
 
     const difference = total - donationPercentage;
 
@@ -47,7 +50,7 @@ const Statistics = () => {
                 textAnchor={x > cx ? "start" : "end"}
                 dominantBaseline="central"
             >
-                {`${(percent * 100).toFixed(0)}%`}
+                {`${(percent * 100).toFixed(1)}%`}
             </text>
         );
     };
@@ -62,7 +65,7 @@ const Statistics = () => {
                         cy={200}
                         labelLine={false}
                         label={renderCustomizedLabel}
-                        outerRadius={120}
+                        outerRadius={140}
                         fill="#8884d8"
                         dataKey="value"
                     >
