@@ -5,6 +5,8 @@ const Donation = () => {
 
     const [donations, setDonations] = useState([])
 
+    console.log(donations.length);
+
     const [noFound, setNofound] = useState(false)
 
     const [isSeeAll, setIsSeeAll] = useState(false)
