@@ -5,12 +5,6 @@ import Logo from "./Logo";
 
 const Navbar = () => {
 
-  const links = <>
-    <li><NavLink to="/">Home</NavLink></li>
-    <li><NavLink to="/donation">Donation</NavLink></li>
-    <li><NavLink to="/statistics">Statistics</NavLink></li>
-  </>
-
   return (
     <div className="container mx-auto">
       <nav className="flex flex-wrap justify-center md:justify-around lg:justify-between items-center py-6">
