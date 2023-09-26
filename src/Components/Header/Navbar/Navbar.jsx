@@ -11,7 +11,7 @@ const Navbar = () => {
 
         <Logo></Logo>
 
-        <ul className="flex gap-5">
+        <ul className="flex gap-5 text-lg font-bold">
           <li>
             <NavLink
               to="/"
