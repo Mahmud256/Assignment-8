@@ -55,7 +55,7 @@ const DonateCard = ({ donation }) => {
     return (
         <div>
 
-            <div className="card bg-base-100">
+            <div className="card bg-base-100 px-2">
                 <figure><img className='w-full' src={cover} alt="" /></figure>
                 <div className='mah bg-[#0e0e0e66] relative p-5 top-[-88px]'>
                     <div className="card-actions justify-start relative">
