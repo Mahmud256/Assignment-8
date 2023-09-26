@@ -28,15 +28,15 @@ const Statistics = () => {
 
     return (
         <div>
-            <div className='flex justify-center'>
-                <PieChart width={400} height={300}>
+            <div className='flex justify-center text-xl font-medium'>
+                <PieChart width={400} height={400}>
                     <Pie
                         dataKey="value"
                         isAnimationActive={true}
                         data={data}
                         cx={200}
-                        cy={100}
-                        outerRadius={70}
+                        cy={200}
+                        outerRadius={100}
                         fill="#8884d8"
                         
                         label={(entry) =>  `${(entry.percent * 100).toFixed(1)}%`}

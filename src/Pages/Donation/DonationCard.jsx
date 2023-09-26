@@ -28,7 +28,7 @@ const DonationCard = ({ donation }) => {
                     <p className="text-xl font-semibold" style={textStyle}>{price}.00</p>
 
                     <div className="card-actions justify-start">
-                        <button className="btn normal-case text-[#fff]" style={btnStyle}>View Details</button>
+                        <button className="btn normal-case text-lg font-semibold text-[#fff]" style={btnStyle}>View Details</button>
                     </div>
                 </div>
             </div>

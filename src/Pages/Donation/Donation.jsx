@@ -33,7 +33,7 @@ const Donation = () => {
                         {donations.length > 4 && (
                             <div className='my-6'>
                                 {!isSeeAll && (
-                                    <button onClick={() => setIsSeeAll(true)} className='p-2 block rounded-lg mx-auto bg-green-500 text-white'>
+                                    <button onClick={() => setIsSeeAll(true)} className='p-2 block rounded-lg mx-auto text-base font-semibold bg-green-500 text-white'>
                                         See All
                                     </button>
                                 )}

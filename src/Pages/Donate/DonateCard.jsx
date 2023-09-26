@@ -59,12 +59,12 @@ const DonateCard = ({ donation }) => {
                 <figure><img className='w-full' src={cover} alt="" /></figure>
                 <div className='mah bg-[#0e0e0e66] relative p-5 top-[-88px]'>
                     <div className="card-actions justify-start relative">
-                        <button onClick={handleAddToDonations} className="btn normal-case text-[#fff]" style={btnStyle}>Donate {price}</button>
+                        <button onClick={handleAddToDonations} className="btn normal-case text-xl font-semibold text-[#fff]" style={btnStyle}>Donate {price}</button>
                     </div>
                 </div>
                 <div className="cardbody pb-10">
-                    <h2 className="card-title">{paragraph}</h2>
-                    <p>{description}</p>
+                    <h2 className="card-title text-4xl font-bold pb-3 capitalize">{paragraph}</h2>
+                    <p className='text-base'>{description}</p>
                 </div>
             </div>
 
