@@ -5,12 +5,9 @@ export default function ErrorPage() {
   console.error(error);
 
   return (
-    <div className="h-screen flex justify-center items-center" id="error-page">
-      <h1>Oops!</h1>
-      <p>Sorry, an unexpected error has occurred.</p>
-      <p>
-        <i>{error.statusText || error.message}</i>
-      </p>
-    </div>
+    <div className="text-center my-10 md:my-40 lg:my-96 space-y-4">
+      <h1 className="text-4xl font-semibold">Oops!!!..</h1>
+      <p className="text-lg font-medium">Sorry, an unexpected error has occurred.</p>
+      <p className="font-semibold"><i>404 Not Found!!</i></p></div>
   );
 }
